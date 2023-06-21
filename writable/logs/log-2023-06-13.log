@@ -1,0 +1,880 @@
+CRITICAL - 2023-06-13 16:14:57 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:15:40 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:15:41 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:15:42 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:15:42 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:15:43 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:15:43 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:16:15 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:16:16 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:16:16 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:16:16 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:16:17 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:16:17 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:20:18 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:20:19 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:20:19 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:21:40 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:21:44 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:21:45 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:21:46 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:21:46 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:21:46 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:21:47 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:21:47 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:21:48 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:21:48 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:21:48 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:21:49 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:21:49 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:22:36 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:22:41 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:24:26 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:28:30 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/all')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/all')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/all')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:28:50 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:30:00 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:30:01 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:30:02 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:30:02 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:30:03 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:30:03 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:31:20 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:31:25 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:31:59 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:35:34 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:35:38 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:35:42 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:35:43 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:35:43 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:35:44 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:35:44 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:35:44 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:35:45 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:35:46 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:35:47 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:35:47 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:37:59 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:40:53 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:40:54 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:40:54 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:40:55 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:40:55 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:40:55 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:40:56 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:40:56 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:40:56 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:40:56 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:40:57 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:40:57 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:40:58 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:44:12 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:45:30 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:45:31 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:45:31 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:45:31 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:45:31 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:45:31 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:45:32 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:56:56 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:58:02 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:58:03 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:58:03 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:58:04 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:58:04 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:58:04 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:58:05 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:58:05 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:58:05 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-13 16:58:05 --> Class "App\Controller\BaseController" not found
+in APPPATH\Controllers\Genre.php on line 9.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Genre/All')
+ 3 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Genre/All')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Genre/All')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')

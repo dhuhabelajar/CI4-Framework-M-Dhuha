@@ -1,0 +1,364 @@
+CRITICAL - 2023-06-07 02:27:52 --> Undefined variable $id
+in APPPATH\Controllers\Filem.php on line 35.
+ 1 APPPATH\Controllers\Filem.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\Manual-MI4Bapp\\app\\Controllers\\Filem.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->id()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:32:20 --> Undefined constant "App\Models\id"
+in APPPATH\Models\FilemModel.php on line 54.
+ 1 APPPATH\Controllers\Filem.php(35): App\Models\FilemModel->getDataByID(1)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->film_by_id()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:33:54 --> Undefined constant "App\Models\id"
+in APPPATH\Models\FilemModel.php on line 54.
+ 1 APPPATH\Controllers\Filem.php(35): App\Models\FilemModel->getDataByID(1)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->film_by_id()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:33:54 --> Undefined constant "App\Models\id"
+in APPPATH\Models\FilemModel.php on line 54.
+ 1 APPPATH\Controllers\Filem.php(35): App\Models\FilemModel->getDataByID(1)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->film_by_id()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:33:55 --> Undefined constant "App\Models\id"
+in APPPATH\Models\FilemModel.php on line 54.
+ 1 APPPATH\Controllers\Filem.php(35): App\Models\FilemModel->getDataByID(1)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->film_by_id()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:33:55 --> Undefined constant "App\Models\id"
+in APPPATH\Models\FilemModel.php on line 54.
+ 1 APPPATH\Controllers\Filem.php(35): App\Models\FilemModel->getDataByID(1)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->film_by_id()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:33:55 --> Undefined constant "App\Models\id"
+in APPPATH\Models\FilemModel.php on line 54.
+ 1 APPPATH\Controllers\Filem.php(35): App\Models\FilemModel->getDataByID(1)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->film_by_id()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:33:55 --> Undefined constant "App\Models\id"
+in APPPATH\Models\FilemModel.php on line 54.
+ 1 APPPATH\Controllers\Filem.php(35): App\Models\FilemModel->getDataByID(1)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->film_by_id()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:33:56 --> Undefined constant "App\Models\id"
+in APPPATH\Models\FilemModel.php on line 54.
+ 1 APPPATH\Controllers\Filem.php(35): App\Models\FilemModel->getDataByID(1)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->film_by_id()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:33:56 --> Undefined constant "App\Models\id"
+in APPPATH\Models\FilemModel.php on line 54.
+ 1 APPPATH\Controllers\Filem.php(35): App\Models\FilemModel->getDataByID(1)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->film_by_id()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:50:25 --> syntax error, unexpected token "}", expecting ";"
+in APPPATH\Models\FilemModel.php on line 60.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Manual-MI4Bapp\\app\\Models\\FilemModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\FilemModel')
+ 3 APPPATH\Controllers\Filem.php(19): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\FilemModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Filem->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:50:26 --> syntax error, unexpected token "}", expecting ";"
+in APPPATH\Models\FilemModel.php on line 60.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Manual-MI4Bapp\\app\\Models\\FilemModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\FilemModel')
+ 3 APPPATH\Controllers\Filem.php(19): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\FilemModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Filem->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:50:26 --> syntax error, unexpected token "}", expecting ";"
+in APPPATH\Models\FilemModel.php on line 60.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Manual-MI4Bapp\\app\\Models\\FilemModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\FilemModel')
+ 3 APPPATH\Controllers\Filem.php(19): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\FilemModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Filem->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:58:02 --> syntax error, unexpected token "}"
+in APPPATH\Models\FilemModel.php on line 75.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Manual-MI4Bapp\\app\\Models\\FilemModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\FilemModel')
+ 3 APPPATH\Controllers\Filem.php(19): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\FilemModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Filem->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:58:03 --> syntax error, unexpected token "}"
+in APPPATH\Models\FilemModel.php on line 75.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Manual-MI4Bapp\\app\\Models\\FilemModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\FilemModel')
+ 3 APPPATH\Controllers\Filem.php(19): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\FilemModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Filem->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:58:03 --> syntax error, unexpected token "}"
+in APPPATH\Models\FilemModel.php on line 75.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Manual-MI4Bapp\\app\\Models\\FilemModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\FilemModel')
+ 3 APPPATH\Controllers\Filem.php(19): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\FilemModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Filem->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:58:04 --> syntax error, unexpected token "}"
+in APPPATH\Models\FilemModel.php on line 75.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Manual-MI4Bapp\\app\\Models\\FilemModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\FilemModel')
+ 3 APPPATH\Controllers\Filem.php(19): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\FilemModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Filem->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:58:04 --> syntax error, unexpected token "}"
+in APPPATH\Models\FilemModel.php on line 75.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Manual-MI4Bapp\\app\\Models\\FilemModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\FilemModel')
+ 3 APPPATH\Controllers\Filem.php(19): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\FilemModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Filem->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:58:05 --> syntax error, unexpected token "}"
+in APPPATH\Models\FilemModel.php on line 75.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Manual-MI4Bapp\\app\\Models\\FilemModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\FilemModel')
+ 3 APPPATH\Controllers\Filem.php(19): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\FilemModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Filem->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:58:05 --> syntax error, unexpected token "}"
+in APPPATH\Models\FilemModel.php on line 75.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Manual-MI4Bapp\\app\\Models\\FilemModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\FilemModel')
+ 3 APPPATH\Controllers\Filem.php(19): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\FilemModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Filem->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:58:05 --> syntax error, unexpected token "}"
+in APPPATH\Models\FilemModel.php on line 75.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Manual-MI4Bapp\\app\\Models\\FilemModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\FilemModel')
+ 3 APPPATH\Controllers\Filem.php(19): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\FilemModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Filem->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 02:58:05 --> syntax error, unexpected token "}"
+in APPPATH\Models\FilemModel.php on line 75.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Manual-MI4Bapp\\app\\Models\\FilemModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\FilemModel')
+ 3 APPPATH\Controllers\Filem.php(19): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\FilemModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Filem->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 03:48:32 --> Invalid file: "filem/semuafilm.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('filem/semuafilm.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/semuafilm', [], true)
+ 3 APPPATH\Controllers\Filem.php(31): view('filem/semuafilm', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->all()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 03:49:11 --> Invalid file: "filem/semuafilm.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('filem/semuafilm.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/semuafilm', [], true)
+ 3 APPPATH\Controllers\Filem.php(31): view('filem/semuafilm', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->all()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 03:49:13 --> Invalid file: "filem/semuafilm.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('filem/semuafilm.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/semuafilm', [], true)
+ 3 APPPATH\Controllers\Filem.php(31): view('filem/semuafilm', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->all()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 03:49:13 --> Invalid file: "filem/semuafilm.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('filem/semuafilm.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/semuafilm', [], true)
+ 3 APPPATH\Controllers\Filem.php(31): view('filem/semuafilm', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->all()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 03:52:20 --> Invalid file: "filem/semuafilm.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('filem/semuafilm.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/semuafilm', [], true)
+ 3 APPPATH\Controllers\Filem.php(31): view('filem/semuafilm', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->all()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 03:52:21 --> Invalid file: "filem/semuafilm.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('filem/semuafilm.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/semuafilm', [], true)
+ 3 APPPATH\Controllers\Filem.php(31): view('filem/semuafilm', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->all()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 03:52:22 --> Invalid file: "filem/semuafilm.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('filem/semuafilm.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/semuafilm', [], true)
+ 3 APPPATH\Controllers\Filem.php(31): view('filem/semuafilm', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->all()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 03:52:22 --> Invalid file: "filem/semuafilm.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('filem/semuafilm.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/semuafilm', [], true)
+ 3 APPPATH\Controllers\Filem.php(31): view('filem/semuafilm', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->all()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 03:52:22 --> Invalid file: "filem/semuafilm.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('filem/semuafilm.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/semuafilm', [], true)
+ 3 APPPATH\Controllers\Filem.php(31): view('filem/semuafilm', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->all()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 03:52:22 --> Invalid file: "filem/semuafilm.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('filem/semuafilm.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/semuafilm', [], true)
+ 3 APPPATH\Controllers\Filem.php(31): view('filem/semuafilm', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->all()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 03:52:26 --> Undefined variable $semuafilm
+in APPPATH\Views\Filem\index.php on line 20.
+ 1 APPPATH\Views\Filem\index.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $semuafilm', 'C:\\xampp\\htdocs\\Manual-MI4Bapp\\app\\Views\\Filem\\index.php', 20)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Manual-MI4Bapp\\app\\Views\\Filem\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/index', [], true)
+ 5 APPPATH\Controllers\Filem.php(26): view('filem/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 03:52:33 --> Invalid file: "filem/semuafilm.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('filem/semuafilm.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/semuafilm', [], true)
+ 3 APPPATH\Controllers\Filem.php(31): view('filem/semuafilm', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->all()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 03:55:31 --> Invalid file: "filem/semuafilem.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('filem/semuafilem.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/semuafilem', [], true)
+ 3 APPPATH\Controllers\Filem.php(31): view('filem/semuafilem', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->all()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 03:55:32 --> Invalid file: "filem/semuafilem.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('filem/semuafilem.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/semuafilem', [], true)
+ 3 APPPATH\Controllers\Filem.php(31): view('filem/semuafilem', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->all()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 03:55:32 --> Invalid file: "filem/semuafilem.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('filem/semuafilem.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/semuafilem', [], true)
+ 3 APPPATH\Controllers\Filem.php(31): view('filem/semuafilem', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->all()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-07 03:58:01 --> Undefined array key "nama_film"
+in APPPATH\Views\Filem\semuafilem.php on line 26.
+ 1 APPPATH\Views\Filem\semuafilem.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_film"', 'C:\\xampp\\htdocs\\Manual-MI4Bapp\\app\\Views\\Filem\\semuafilem.php', 26)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Manual-MI4Bapp\\app\\Views\\Filem\\semuafilem.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/semuafilem', [], true)
+ 5 APPPATH\Controllers\Filem.php(31): view('filem/semuafilem', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->all()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')

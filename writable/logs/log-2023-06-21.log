@@ -18,3 +18,63 @@ in APPPATH\Views\Genre\SemuaGenre.php on line 32.
  6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
  7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
  8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Manual-MI4Bapp\\public\\index.php')
+CRITICAL - 2023-06-21 02:38:52 --> Undefined variable $genre
+in APPPATH\Views\Filem\add.php on line 25.
+ 1 APPPATH\Views\Filem\add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $genre', 'C:\\Users\\mhmd_dhuhaa\\Documents\\GitHub\\CI4-Framework-M-Dhuha\\app\\Views\\Filem\\add.php', 25)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\Users\\mhmd_dhuhaa\\Documents\\GitHub\\CI4-Framework-M-Dhuha\\app\\Views\\Filem\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/add', [], true)
+ 5 APPPATH\Controllers\Filem.php(28): view('filem/add')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->add()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\mhmd_dhuhaa\\Documents\\GitHub\\CI4-Framework-M-Dhuha\\public\\index.php')
+CRITICAL - 2023-06-21 02:40:35 --> Undefined variable $genre
+in APPPATH\Views\Filem\add.php on line 25.
+ 1 APPPATH\Views\Filem\add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $genre', 'C:\\Users\\mhmd_dhuhaa\\Documents\\GitHub\\CI4-Framework-M-Dhuha\\app\\Views\\Filem\\add.php', 25)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\Users\\mhmd_dhuhaa\\Documents\\GitHub\\CI4-Framework-M-Dhuha\\app\\Views\\Filem\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/add', [], true)
+ 5 APPPATH\Controllers\Filem.php(28): view('filem/add')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->add()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\mhmd_dhuhaa\\Documents\\GitHub\\CI4-Framework-M-Dhuha\\public\\index.php')
+CRITICAL - 2023-06-21 02:40:36 --> Undefined variable $genre
+in APPPATH\Views\Filem\add.php on line 25.
+ 1 APPPATH\Views\Filem\add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $genre', 'C:\\Users\\mhmd_dhuhaa\\Documents\\GitHub\\CI4-Framework-M-Dhuha\\app\\Views\\Filem\\add.php', 25)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\Users\\mhmd_dhuhaa\\Documents\\GitHub\\CI4-Framework-M-Dhuha\\app\\Views\\Filem\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/add', [], true)
+ 5 APPPATH\Controllers\Filem.php(28): view('filem/add')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->add()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\mhmd_dhuhaa\\Documents\\GitHub\\CI4-Framework-M-Dhuha\\public\\index.php')
+CRITICAL - 2023-06-21 02:40:36 --> Undefined variable $genre
+in APPPATH\Views\Filem\add.php on line 25.
+ 1 APPPATH\Views\Filem\add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $genre', 'C:\\Users\\mhmd_dhuhaa\\Documents\\GitHub\\CI4-Framework-M-Dhuha\\app\\Views\\Filem\\add.php', 25)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\Users\\mhmd_dhuhaa\\Documents\\GitHub\\CI4-Framework-M-Dhuha\\app\\Views\\Filem\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('filem/add', [], true)
+ 5 APPPATH\Controllers\Filem.php(28): view('filem/add')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Filem->add()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Filem))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\mhmd_dhuhaa\\Documents\\GitHub\\CI4-Framework-M-Dhuha\\public\\index.php')
+INFO - 2023-06-21 03:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 03:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 03:40:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 03:54:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 03:54:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 03:56:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 03:57:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 04:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 04:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 04:21:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 04:24:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 04:25:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

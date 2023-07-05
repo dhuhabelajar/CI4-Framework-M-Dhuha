@@ -3,9 +3,11 @@
 
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Layar Kaca 599</title>
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <script src="/assets/js/unpkg.com_sweetalert@2.1.2_dist_sweetalert.min.js"></script> <!-- tambahkan ini -->
 </head>
 
 <body>
@@ -50,7 +52,17 @@
         </footer>
     </div>
 
+    <?php if (session()->getFlashdata('success')) : ?>
+        <script>
+            swal({
+                title: "Informasi",
+                text: "<?= session()->getFlashdata('success') ?>",
+                icon: "success",
+                button: "OK",
+            });
+        </script>
 
+    <?php endif; ?>
 </body>
 
 </html>

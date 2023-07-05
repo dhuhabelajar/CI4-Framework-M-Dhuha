@@ -44,17 +44,37 @@
                         <td><?= $filem['nama_genre']?></td>
                         <td><?= $filem['duration']?></td>
                         <td>
-                            <a href="" class="btn btn-success">Update</a>
-                            <a href="" class="btn btn-danger">Delete</a>
+                            <a href="/filem/edit<?= $filem["id"]; ?>" class="btn btn-success">Update</a>
+                            <a class="btn btn-danger" onclick="return confirmDelete()">Delete</a>
                         </td>
                     </tr>
                 <?php endforeach;?>
                 </table>
         </div>
     </div>
-
-    
 </div>
+<!-- tambahkan dari sini  -->
+<script>
+    function confirmDelete() {
+        swal({
+                title: "Apakah Anda yakin?",
+                text: "setelah dihapus! data anda akan benar-benar hilang!",
+                icon: "warning",
+                buttons: true,
+                dangerMode: true,
+            })
+            .then((willDelete) => {
+                if (willDelete) {
+
+                    window.location.href = "/filem/destroy/<?= $filem['id'] ?>";
+
+                } else {
+                    swal("Data tidak jadi dihapus!");
+                }
+            });
+    }
+</script>
+  <!-- sampai sini -->
 <?= $this->endSection() ?>     
 </body>
 

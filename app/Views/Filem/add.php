@@ -11,31 +11,56 @@
                     <div class="col-md-6">
                 <h1>Halaman Tambah Data Film</h1>
             </div>
+            <form action="/filem/store" method="POST" enctype="multipart/form-data">
+                    <div class="row">
 
-            <form action="">
-                <div class="row">
-                    <div class="col-md-6">
+                        <div class="col-md-6">
                             <label for="nama_filem" class="form-label">Nama Film</label>
-                            <input type="text" class="form-control" id="nama_filem" name="nama_filem">
-                    </div>
-                    <div class="col-md-6">
+                            <input type="text" class="form-control <?= isset($errors['nama_filem']) ? 'is-invalid ' : ''; ?>" id="nama_filem" name="nama_filem" value="<?= old('nama_filem'); ?>">
+                            <?php if (isset($errors['nama_filem'])) : ?>
+                                <div class="invalid-feedback">
+                                    <?= $errors['nama_filem'] ?>
+                                </div>
+                            <?php endif; ?>
+                        </div>
+                        <div class="col-md-6">
                             <label for="genre" class="form-label">Genre</label>
-                            <select name="id_genre" id="genre" class="form-control" name="id_genre">
-                                <option value=""></option>
+                            <select name="id_genre" id="genre" class="form-control <?= isset($errors['id_genre']) ? 'is-invalid ' : ''; ?>" name="id_genre" value="<?= old('id_genre'); ?>">
+                                <option value="">PILIH..</option>
+                                <?php foreach ($genre as $g) : ?>
+                                    <option value="<?= $g["id"] ?>"><?= $g["nama_genre"] ?></option>
+                                <?php endforeach; ?>
                             </select>
+                            <?php if (isset($errors['id_genre'])) : ?>
+                                <div class="invalid-feedback">
+                                    <?= $errors['id_genre'] ?>
+                                </div>
+                            <?php endif; ?>
+                        </div>
+                        <div class="col-md-6">
+                            <label for="duration" class="form-label">Durasi</label>
+                            <input type="text" class="form-control <?= isset($errors['duration']) ? 'is-invalid ' : ''; ?>" id="duration" name="duration" value=" <?= old('duration'); ?>">
+                            <?php if (isset($errors['duration'])) : ?>
+                                <div class=" invalid-feedback">
+                                    <?= $errors['duration'] ?>
+                                </div>
+                            <?php endif; ?>
+                        </div>
+                        <div class="col-md-6">
+                            <label for="cover" class="form-label">Cover</label>
+                            <input type="file" class="form-control <?= isset($errors['cover']) ? 'is-invalid' : ''; ?>" id="cover" name="cover" value="<?= old('cover'); ?>">
+                            <?php if (isset($errors['cover'])) : ?>
+                                <div class="invalid-feedback">
+                                    <?= $errors['cover'] ?>
+                                </div>
+                            <?php endif; ?>
+                        </div>
+
+                        <div class="col-md-6">
+                            <button type="submit" class="btn btn-primary mt-5">Simpan</button>
+                        </div>
                     </div>
-                    <div class="col-md-6">
-                        <label for="duration" class="form-label">Durasi</label>
-                            <input type="text" class="form-control" id="duration" name="duration">
-                    </div>
-                    <div class="col-md-6">
-                        <label for="cover" class="form-label">Cover</label>
-                            <input type="file" class="form-control" id="cover" name="cover">
-                    </div>
-                    <div class="col-md-6">
-                        <button type="submit" class="btn btn-primary mt-5">Simpan</button>
-                </div>
-            </form>
+                </form>
             <div class="col-md-12">
                 <a href="/filem" class="btn btn-dark">Kembali</a>
             </div>
